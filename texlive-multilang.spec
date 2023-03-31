@@ -1,6 +1,6 @@
 Name:		texlive-multilang
 Version:	49065
-Release:	1
+Release:	2
 Summary:	A LaTeX package for maintaining multiple translations of a document
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/multilang
