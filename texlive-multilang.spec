@@ -3,7 +3,7 @@ Version:	49065
 Release:	2
 Summary:	A LaTeX package for maintaining multiple translations of a document
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/multilang
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/multilang
 License:	lppl1.2
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/multilang.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/multilang.doc.r%{version}.tar.xz
